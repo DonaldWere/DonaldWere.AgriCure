@@ -29,3 +29,5 @@ include_once('includes/db_connect.php');
 <?php include_once("includes/footer.html"); ?>
 </body>
 </html>
+
+end
